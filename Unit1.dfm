@@ -1,0 +1,22 @@
+object Form1: TForm1
+  Left = 228
+  Top = 198
+  Width = 328
+  Height = 274
+  Caption = 'Rammiel'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnMouseDown = FormMouseDown
+  OnMouseMove = FormMouseMove
+  OnMouseUp = FormMouseUp
+  OnResize = FormResize
+  PixelsPerInch = 96
+  TextHeight = 13
+end
